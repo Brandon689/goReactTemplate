@@ -1,5 +1,7 @@
 package types
 
-type Example struct {
-	Apple string
+type User struct {
+	ID    int
+	Name  string
+	Email string
 }
