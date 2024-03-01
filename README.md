@@ -1,6 +1,6 @@
 # Go backend
 * Echo
-* Sqlite
+* Sqlite (Bun)
 
 # React Frontend
 * Vite TypeScript SWC
